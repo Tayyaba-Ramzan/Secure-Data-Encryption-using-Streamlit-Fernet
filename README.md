@@ -1,4 +1,4 @@
-# 🔐 Secure Vault Pro
+# 🔐 Secure Vault
 
 🛡️ A robust, encrypted data vault built with **Streamlit**, using **Fernet encryption** from the `cryptography` library. This app allows you to **securely store and retrieve sensitive data** in-memory with user-defined passkeys, completely independent of external databases.
 
